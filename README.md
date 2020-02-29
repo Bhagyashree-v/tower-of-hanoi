@@ -13,4 +13,4 @@ FOR 4 TOWERS AND 4 DISCS WE CAN MOVE THE DISCS FROM TOWER1 TO TOWER 2 IN 9 MOVES
 (we team of 3 have done tis code using c language.and we faced lots of eerors while creating this program.)
 INSTRUCTIONS TO RUN THE CODE:
 in the code just give the any value for N.
-it will get the output of transferring the discs from tower 11 to tower 2 by using tower 3 and tower 4 as temporary towers.
+it will get the output of transferring the discs from tower 1 to tower 2 by using tower 3 and tower 4 as temporary towers.
